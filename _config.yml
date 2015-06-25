@@ -1,0 +1,12 @@
+# Site settings
+title: Shane Ke
+email: shaneke2010@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  A Tester's Page
+baseurl: "/witchlock.github.io" # the subpath of your site, e.g. /blog/
+url: "http://witchlock.github.io" # the base hostname & protocol for your site
+twitter_username: witchlock
+github_username:  witchlock
+
+# Build settings
+markdown: kramdown
